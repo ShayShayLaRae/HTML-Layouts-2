@@ -1,0 +1,32 @@
+body {
+margin: 0;
+}
+
+.myHeader{
+   display: flex;
+   flex-direction: row;
+   height: 60px;
+   width: auto;
+   background-color: #0828CC;
+   align-items: center;
+}
+.headerText{
+    color: #ffe3ea;
+    /* border-color: #ff0063; */
+
+}
+.followButton{
+    color: #ffe3ea;
+}
+.exitButton{
+    color: #ffe3ea;
+}
+.myScrollContainer{
+
+}
+h1{
+    font-family: Eina03, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    font-size: 73.6px;
+    line-height: 96px;
+    letter-spacing: -0.9;
+}
